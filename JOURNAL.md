@@ -22,6 +22,6 @@ We changed the CAD design to have a mount for the motor and also have the arms b
 
 View of motor without legs attached. Two bearings will help smoothly rotate each leg
 
-![alt text](image.png)
+![alt text](./imgs/3.png)
 
 Basic wheel which will may we may wrap with rubber to increase traction.
