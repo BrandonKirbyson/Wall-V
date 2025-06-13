@@ -13,3 +13,15 @@ We started by drawing an initial sketch of the robot's design. It has a motor an
 ### Initial CAD Design
 
 ![alt text](./imgs/1.png)
+
+## 6/12/25 - New CAD Design
+
+We changed the CAD design to have a mount for the motor and also have the arms be properly mounted with a bearing. Additionally, we changed the style for the motor, now it has a 2 gear design that will ensure the wheels mainly stay centered under the bot.
+
+![alt text](./imgs/2.png)
+
+View of motor without legs attached. Two bearings will help smoothly rotate each leg
+
+![alt text](image.png)
+
+Basic wheel which will may we may wrap with rubber to increase traction.
