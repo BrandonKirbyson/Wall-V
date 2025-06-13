@@ -1,2 +1,8 @@
 Quantity,Name,Notes,Price
 2,VGEBY Brushless Motor 1PCS 5010 360KV,These two motors power the arms and have high torque that can quickly pull up the legs enabling the robot to jump,27.62
+1,HiLetgo 3pcs GY-521 MPU-6050 MPU6050,This pack comes with 3 gyroscopes for value,10.99
+1,ESP32-DevKitC-32E Development Board,This is the main microcontroller for the robot which has a very fast tick rate for self-balancing,11
+1,5pcs CJMCU-103 Rotary Angle Sensor Module SMD SV01A103AEA01R00 Trimmer 10K Potentiometer Analog Voltage Output,A set of 5 rotary encoders to tell the angle which the robots legs and wheels are at enabling it to jump and stay balanced better,11.99
+1,30A Electric Brushless Motor Controller 2 Pcs ESC Speed Controller with XT60 and 3.5mm Bullet Plugs,2 ESCs that control the leg motors,17.59
+1,MF148ZZ Flanged Ball Bearing ID 8mm x OD 14mm x Width 4mm,10 flanged bearings to enable the legs to pivot smoothly,8.99
+1,SpeedyBee ELRS FPV Receiver - 2.4ghz ExpressLRS Nano Receiver Drone RX Module with 78mm UFL T Antenna,ELRS receiver to control the robot with a remote,14.99
