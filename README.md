@@ -8,6 +8,8 @@ Wall-V is a 2 legged, self-balancing robot that has wheels and can jump. It is d
 
 We are building Wall-V to experiment with self-balacing robots that have the capability to jump. Jumping will allow to robot to go over small obstacles and be more manuverable and it will have to have high torque motors to align the robot.
 
+So far throughout the building process, the hardest thing has been creating the leg design that allows the robot to jump. We have thought about many different designs but concluded that putting a ball bearing as the joint will still allow the robot to jump while not requiring an extra motor to move. The legs are both attached to each other and 1 motor will provide the torque to lift both legs at once. Additionally, the wheels are not linked so they can be at independent heights.
+
 ## Wiring Diagram
 
 ![Wiring Diagram](./imgs/wiring-diagram.png)
