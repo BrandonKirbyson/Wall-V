@@ -1,9 +1,9 @@
-Quantity,Name,Notes,Price
-2,VGEBY Brushless Motor 1PCS 5010 360KV,These two motors power the arms and have high torque that can quickly pull up the legs enabling the robot to jump,27.62
-1,HiLetgo 3pcs GY-521 MPU-6050 MPU6050,This pack comes with 3 gyroscopes for value,10.99
-1,ESP32-DevKitC-32E Development Board,This is the main microcontroller for the robot which has a very fast tick rate for self-balancing,11
-1,5pcs CJMCU-103 Rotary Angle Sensor Module SMD SV01A103AEA01R00 Trimmer 10K Potentiometer Analog Voltage Output,A set of 5 rotary encoders to tell the angle which the robots legs and wheels are at enabling it to jump and stay balanced better,11.99
-1,30A Electric Brushless Motor Controller 2 Pcs ESC Speed Controller with XT60 and 3.5mm Bullet Plugs,2 ESCs that control the leg motors,17.59
-1,MF148ZZ Flanged Ball Bearing ID 8mm x OD 14mm x Width 4mm,10 flanged bearings to enable the legs to pivot smoothly,8.99
-1,SpeedyBee ELRS FPV Receiver - 2.4ghz ExpressLRS Nano Receiver Drone RX Module with 78mm UFL T Antenna,ELRS receiver to control the robot with a remote,14.99
-1,0.96 Inch OLED Display Module 12864 LCD Screen 128x64 IIC I2C OLED Board SSD1315,2 small OLED screens that will serve as the robots eyes,9.99
+Quantity,Name,Notes,Link,Price,Ordered
+2,VGEBY Brushless Motor 1PCS 5010 360KV,These two motors power the arms and have high torque that can quickly pull up the legs enabling the robot to jump,https://a.co/d/61lIr4G,27.62,No
+1,HiLetgo 3pcs GY-521 MPU-6050,This pack comes with 3 gyroscopes for value,https://a.co/d/dAB0LTv,10.99,No
+1,ESP32-DevKitC-32E Development Board,This is the main microcontroller for the robot which has a very fast tick rate for self-balancing,https://a.co/d/bIcHKEl,11,No
+1,5pcs CJMCU-103 Rotary Angle Sensor Module SMD SV01A103AEA01R00 Trimmer 10K Potentiometer Analog Voltage Output,A set of 5 rotary encoders to tell the angle which the robots legs and wheels are at enabling it to jump and stay balanced better,https://a.co/d/h0BCA1g,11.99,No
+1,Readytosky 40A ESC OPTO 2-6S Brushless ESC,4 ESCs that will controll the leg and wheel motors,https://a.co/d/frUhIft,45.99,No
+1,MF148ZZ Flanged Ball Bearing ID 8mm x OD 14mm x Width 4mm,10 flanged bearings to enable the legs to pivot smoothly,https://a.co/d/eTWzlf1,8.99,No
+1,SpeedyBee ELRS FPV Receiver - 2.4ghz ExpressLRS Nano Receiver Drone RX Module with 78mm UFL T Antenna,ELRS receiver to control the robot with a remote,https://a.co/d/2ItnyXH,14.99,No
+1,0.96 Inch OLED Display Module 12864 LCD Screen 128x64 IIC I2C OLED Board SSD1315,2 small OLED screens that will serve as the robots eyes,https://a.co/d/b7wErMp,9.99,No
