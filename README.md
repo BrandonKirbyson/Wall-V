@@ -46,9 +46,9 @@ We are building Wall-V to experiment with self-balacing robots that have the cap
 </tr>
 <tr>
 <td align="right">1</td>
-<td>30A Electric Brushless Motor Controller 2 Pcs ESC Speed Controller with XT60 and 3.5mm Bullet Plugs</td>
+<td>Readytosky 40A ESC OPTO 2-6S Brushless ESC Electronic Speed Controller for F450 450mm F550 S500 ZD550 RC Helicopter Quadcopter(4PCS)</td>
 <td>2 ESCs that control the leg motors</td>
-<td align="right">17.59</td>
+<td align="right">45.99</td>
 </tr>
 <tr>
 <td align="right">1</td>
