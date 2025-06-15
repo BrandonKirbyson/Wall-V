@@ -1,4 +1,4 @@
-# Wall-V
+# Wall-V (Wheeled and Legged Locomotion Vehicle)
 
 ![Wall-V Render](./imgs/wall-v-render1.png)
 
