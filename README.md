@@ -18,7 +18,7 @@ So far throughout the building process, the hardest thing has been creating the 
 
 Total Cost of Unordered Parts: $169.18 (tax and shipping not included)
 
-All parts have been checked on Amazon and Aliexpress and there is minimal price difference. The prices that have a differnet we will be covering the cost as it exceeds the $150 budget.
+All parts have been checked on Amazon and Aliexpress and there is minimal price difference. The prices that have a difference we will be covering the cost as it exceeds the $150 budget.
 
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Quantity</th>
