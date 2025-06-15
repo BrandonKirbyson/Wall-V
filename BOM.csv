@@ -1,5 +1,5 @@
 Quantity,Name,Notes,Link,Price,Ordered
-2,VGEBY Brushless Motor 1PCS 5010 360KV,These two motors power the arms and have high torque that can quickly pull up the legs enabling the robot to jump,https://a.co/d/61lIr4G,27.62,No
+4,VGEBY Brushless Motor 1PCS 5010 360KV,These two motors power the arms and have high torque that can quickly pull up the legs enabling the robot to jump,https://a.co/d/61lIr4G,27.62,2/4
 1,HiLetgo 3pcs GY-521 MPU-6050,This pack comes with 3 gyroscopes for value,https://a.co/d/dAB0LTv,10.99,No
 1,ESP32-DevKitC-32E Development Board,This is the main microcontroller for the robot which has a very fast tick rate for self-balancing,https://a.co/d/bIcHKEl,11,No
 1,5pcs CJMCU-103 Rotary Angle Sensor Module SMD SV01A103AEA01R00 Trimmer 10K Potentiometer Analog Voltage Output,A set of 5 rotary encoders to tell the angle which the robots legs and wheels are at enabling it to jump and stay balanced better,https://a.co/d/h0BCA1g,11.99,No

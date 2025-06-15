@@ -16,7 +16,7 @@ So far throughout the building process, the hardest thing has been creating the 
 
 ## Parts List
 
-Total Cost: $169.18 (tax and shipping not included)
+Total Cost of Unordered Parts: $169.18 (tax and shipping not included)
 
 All parts have been checked on Amazon and Aliexpress and there is minimal price difference. The prices that have a differnet we will be covering the cost as it exceeds the $150 budget.
 
@@ -29,12 +29,12 @@ All parts have been checked on Amazon and Aliexpress and there is minimal price 
 <th title="Field #6">Ordered</th>
 </tr></thead>
 <tbody><tr>
-<td align="right">2</td>
+<td align="right">4</td>
 <td>VGEBY Brushless Motor 1PCS 5010 360KV</td>
 <td>These two motors power the arms and have high torque that can quickly pull up the legs enabling the robot to jump</td>
 <td>https://a.co/d/61lIr4G</td>
 <td align="right">27.62</td>
-<td>No</td>
+<td>2/4</td>
 </tr>
 <tr>
 <td align="right">1</td>

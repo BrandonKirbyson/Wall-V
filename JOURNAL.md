@@ -7,7 +7,7 @@ created_at: "2025-06-10"
 
 *Note for all time spent, it is counting for 1 person working on the bot, we both worked only worked on it together so the total time is double*
 
-## Total Time Spent: 11 Hours
+## Total Time Spent: 13 Hours
 
 ## 6/11/25 - Initial Sketches and First CAD Design
 
@@ -38,7 +38,7 @@ Basic wheel which we will wrap rubber to give better traction.
 
 Joined halfs with empty space for battery, esc and microcontroller.
 
-## 6/13/25 - Final CAD Design
+## 6/13/25 - CAD Design Nearly Finished
 
 ### Time Spent: 5 Hours
 
@@ -59,3 +59,23 @@ These screens will be used as eyes and will ideally have a animation to might ev
 ![Front view of Wall-V](./imgs/9.png)
 
 The front view of the robot shows its design and how the wheels are mounted and an example face of the robot.
+
+The only thing that needs to be improved is the legs and their mounting to the wheels.
+
+## 6/14/25
+
+### Time Spent: 2 Hours
+
+Finished the CAD including making the leg joints work with a bearing and mounting the wheels onto the legs.
+
+![alt text](./imgs/10.png)
+
+The finished wheel design with a TPU tire to give it more traction. The wheel and leg are both designed to be very light so that the robot can quickly move its legs up and down without using an overly powerful motor.
+
+![Side view of the robot](./imgs/11.png)
+
+The finished robot design
+
+![Front view of the robot](./imgs/12.png)
+
+Front view of the robot
