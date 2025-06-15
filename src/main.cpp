@@ -1,18 +1,31 @@
 #include <Arduino.h>
+#include "Robot.hpp"
+#include <chrono>
+#include <thread>
 
-// put function declarations here:
-int myFunction(int, int);
-
-void setup() {
-  // put your setup code here, to run once:
-  int result = myFunction(2, 3);
+void setup()
+{
 }
 
-void loop() {
-  // put your main code here, to run repeatedly:
+void loop()
+{
 }
 
-// put function definitions here:
-int myFunction(int x, int y) {
-  return x + y;
+int main()
+{
+  Robot robot;
+  robot.begin();
+
+  auto lastTime = std::chrono::steady_clock::now();
+
+  while (true)
+  {
+    auto now = std::chrono::steady_clock::now();
+    float dt = std::chrono::duration<float>(now - lastTime).count();
+    lastTime = now;
+
+    robot.update(dt);
+
+    std::this_thread::sleep_for(std::chrono::milliseconds(1)); // 1000 Hz loop
+  }
 }
