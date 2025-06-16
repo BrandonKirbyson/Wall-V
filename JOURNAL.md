@@ -5,7 +5,7 @@ description: "Wall-V is a 2 legged, self-balancing robot that has wheels and can
 created_at: "2025-06-10"
 ---
 
-*Note for all time spent, it is counting for 1 person working on the bot, we both worked only worked on it together so the total time is double*
+*Note for all time spent, it is counting for 1 person working on the bot, we both worked only worked on it together so the total time is listed here is half the amount for both of us*
 
 ## Total Time Spent: 13 Hours
 

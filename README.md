@@ -16,7 +16,7 @@ So far throughout the building process, the hardest thing has been creating the 
 
 ## Parts List
 
-Total Cost of Unordered Parts: $169.18 (tax and shipping not included)
+Total Cost of Unordered Parts: $183.15 (tax and shipping not included)
 
 All parts have been checked on Amazon and Aliexpress and there is minimal price difference. The prices that have a difference we will be covering the cost as it exceeds the $150 budget.
 
@@ -61,11 +61,11 @@ All parts have been checked on Amazon and Aliexpress and there is minimal price 
 <td>No</td>
 </tr>
 <tr>
-<td align="right">1</td>
-<td>Readytosky 40A ESC OPTO 2-6S Brushless ESC</td>
-<td>4 ESCs that will controll the leg and wheel motors</td>
-<td>https://a.co/d/frUhIft</td>
-<td align="right">45.99</td>
+<td align="right">4</td>
+<td>ZMR 40A Bidirectional Brushless 2-6S UBEC 3A 5V ESC</td>
+<td>These ESCs will control the leg and wheel motors</td>
+<td>https://a.co/d/9KbKRcA</td>
+<td align="right">14.99</td>
 <td>No</td>
 </tr>
 <tr>
