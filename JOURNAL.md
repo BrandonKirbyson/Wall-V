@@ -46,7 +46,7 @@ Joined halfs with empty space for battery, esc and microcontroller.
 
 ![Second picture of testing PID Proof of Concept](./imgs/6.png)
 
-While designing the model we started to test some old parts we had laying around to see if our IMU would work as fast enough to balance the robot. We used a as a fake motor to see kindof what the code would look like, however, in our actual bot we would be using a brushless motor.
+While designing the model we started to test some old parts we had laying around to see if our IMU would work as fast enough to balance the robot. We used a servo as motor to see kindof what the code would look like, however, in our actual bot we would be using a brushless motor.
 
 ![Robot coming along](./imgs/7.png)
 
