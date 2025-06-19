@@ -1,6 +1,6 @@
 Quantity,Name,Notes,Amazon Link,Ali Link,Amazon Price,Aliexpress Price,Ordering From,Ordered
 4,VGEBY Brushless Motor 1PCS 5010 360KV,These two motors power the arms and have high torque that can quickly pull up the legs enabling the robot to jump,https://a.co/d/61lIr4G,https://www.aliexpress.us/item/2251832668557589.html,27.62,15.10,Aliexpress,2/4
-1,WWZMDiB 4Pcs AS5600 Magnetic Encoder 3.3V 12bit high Precision Magnetic Induction Angle Measurement Sensor Module,This pack comes with 3 gyroscopes for value,https://a.co/d/6U3z8iJ,https://www.aliexpress.us/item/3256802834839452.html,10.99,5.67,Amazon,No
+1,WWZMDiB 4Pcs AS5600 Magnetic Encoder 3.3V 12bit high Precision Magnetic Induction Angle Measurement Sensor Module,These are used for getting motor position,https://a.co/d/6U3z8iJ,https://www.aliexpress.us/item/3256802834839452.html,10.99,5.67,Amazon,No
 1,ESP32-DevKitC-32E Development Board,This is the main microcontroller for the robot which has a very fast tick rate for self-balancing,https://a.co/d/bIcHKEl,https://www.aliexpress.us/item/3256804290552594.html,11,2.46,Aliexpress,No
 4,ZMR 40A Bidirectional Brushless 2-6S UBEC 3A 5V ESC,These ESCs will control the leg and wheel motors,https://a.co/d/9KbKRcA,https://www.aliexpress.us/item/2255800049335968.html,14.99,11.89,Amazon,No
 1,MF148ZZ Flanged Ball Bearing ID 8mm x OD 14mm x Width 4mm,Smaller flanged bearings to support leg pivots,https://a.co/d/eTWzlf1,https://www.aliexpress.us/item/3256807921303726.html,8.99,5.49,Amazon,No
