@@ -16,8 +16,15 @@ So far throughout the building process, the hardest thing has been creating the 
 
 ## Parts List
 
-Total Cost of Unordered Parts: $183.15 (tax and shipping not included)
-Total Cost of Unorder Parts on AliExpress: $116.36 (tax and shipping not included)
+Subtotal Cost of Parts on Amazon: $113.91 (does not include tax and shipping)
+
+Subtotal Cost of Parts on AliExpress: $34.89 (does not include tax and shipping)
+
+Subtotal Cost of Parts: $148.80 (does not include tax and shipping)
+
+Total Cost of Parts: $157.40 (includes tax and shipping)
+
+Extra Spent on Amazon: $17.13 (extra we will cover for faster shipping, not spent using HCB funds)
 
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Quantity</th>
