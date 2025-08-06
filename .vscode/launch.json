@@ -14,7 +14,7 @@
             "name": "PIO Debug",
             "executable": "/Users/tobin/Documents/Code/Arduino/Wall-V/.pio/build/az-delivery-devkit-v4/firmware.elf",
             "projectEnvName": "az-delivery-devkit-v4",
-            "toolchainBinDir": "/Users/tobin/.platformio/packages/toolchain-xtensa-esp32/bin",
+            "toolchainBinDir": "/Users/tobin/.platformio/packages/toolchain-atmelavr/bin",
             "internalConsoleOptions": "openOnSessionStart",
             "preLaunchTask": {
                 "type": "PlatformIO",
@@ -27,7 +27,7 @@
             "name": "PIO Debug (skip Pre-Debug)",
             "executable": "/Users/tobin/Documents/Code/Arduino/Wall-V/.pio/build/az-delivery-devkit-v4/firmware.elf",
             "projectEnvName": "az-delivery-devkit-v4",
-            "toolchainBinDir": "/Users/tobin/.platformio/packages/toolchain-xtensa-esp32/bin",
+            "toolchainBinDir": "/Users/tobin/.platformio/packages/toolchain-atmelavr/bin",
             "internalConsoleOptions": "openOnSessionStart"
         },
         {
@@ -36,7 +36,7 @@
             "name": "PIO Debug (without uploading)",
             "executable": "/Users/tobin/Documents/Code/Arduino/Wall-V/.pio/build/az-delivery-devkit-v4/firmware.elf",
             "projectEnvName": "az-delivery-devkit-v4",
-            "toolchainBinDir": "/Users/tobin/.platformio/packages/toolchain-xtensa-esp32/bin",
+            "toolchainBinDir": "/Users/tobin/.platformio/packages/toolchain-atmelavr/bin",
             "internalConsoleOptions": "openOnSessionStart",
             "loadMode": "manual"
         }
